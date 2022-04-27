@@ -35,7 +35,7 @@ class MainPageState extends State<MainPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Univers Insan Pembangunan'),
+        title: Text('Universi Insan Pembangunan'),
       ),
       // membuat objek dari kelas BottomNavigationBar
       bottomNavigationBar: BottomNavigationBar(
